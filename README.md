@@ -34,3 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+ ---
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=igornfaustino.README)
